@@ -4,6 +4,6 @@ It's a little messy but it's one of my first projects, it has many things to imp
 
 ### How to use it
 
-Use as input in the constructor the ip of the wiz light
+Use the ip of the wiz light as input in the constructor
 
-Try changing the light color with changeColor() and turn it off or on with toggleState()
+Try changing the light color with changeColor() and turning it off or on with toggleState()
